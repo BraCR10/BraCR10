@@ -1,6 +1,8 @@
-###Bienvenido a mi perfil de GitHub 🚀
+#Bienvenido a mi perfil de GitHub 🚀
+
 ##Sobre mí
-¡Hola! Soy Brian Ramirez Arias, un entusiasta del desarrollo de software con interes hacia diversas tecnologías. Me encanta explorar el mundo del desarrollo, y eventualmente me gustaria comenzar a participar en proyectos. 
+
+###¡Hola! Soy Brian Ramirez Arias, un entusiasta del desarrollo de software con interes hacia diversas tecnologías. Me encanta explorar el mundo del desarrollo, y eventualmente me gustaria comenzar a participar en proyectos. 
 
 ##Tecnologías y áreas de interés
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()JavaScript: He trabajado en varios proyectos utilizando JavaScript para implimentar ciertas funciones a paginas web. Disfruto explorando nuevas bibliotecas y frameworks para mejorar mis habilidades.
