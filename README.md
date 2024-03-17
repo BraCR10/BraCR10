@@ -1,13 +1,13 @@
 <h1 align="center">Welcome to my profile by GitHub 🚀</h1>
-<h2 align="center">Hi 👋, I'm Brian Ramirez, a software development student from Costa Rica</h3>
+<h2 align="center">Hi 👋, I'm Brian Ramirez, a software development student from Costa Rica</h2>
+<img align='left' src='https://developer.alexanderklimov.ru/android/views/progressbar_cat.gif' >
+
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bracr10" alt="bracr10" /></a> </p>-->
+<h3 align="left">My goals:</h3>
 
-![](https://github.com/BraCR10/slds_spinner_brand.gif)
+- **✅ Currently I am very interested in the world of web3 and blockchain, I like to study how these technologies can transform different industries. I am particularly interested in the potential of smart contracts and in decentralisation, I would really like to partcipate in  related projects.**
 
-- ✅ Currently I am very interested in **the world of web3 and blockchain, I like to study how these technologies can transform different industries. I am particularly interested in the potential of smart contracts and in decentralisation, I would really like to partiated projects.cipate in rel**
-
-- 📫 How to reach me **Brianramirez01arias@gmail.com**
 
 <h3 align="left">Languages and Tools I've used:</h3>
 
@@ -23,22 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/bracr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bracr10" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/bracr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bracr10" height="40" width="40" /></a>
 <a href="https://instagram.com/bracr_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bracr_10" height="30" width="40" /></a>
+<a href="Brianramirez01arias@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="bracr10" height="40" width="40" /></a>
 </p>
-<!--
-## Sobre mí
-### ¡Hola! Soy Brian Ramirez , un entusiasta del desarrollo de software con interes hacia diversas tecnologías. Me encanta explorar el mundo del desarrollo, y eventualmente me gustaria comenzar a participar en proyectos 💻
-## Tecnologías y áreas de interés
-### [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()  [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]() (https://img.shields.io/badge/Cairo?style=for-the-badge&logo=Cairo&logoColor=white&labelColor=101010)]()
-### Web3 y criptografía: Actualmente estoy muy interesado en el mundo del web3 y blockchain, explorando cómo estas tecnologías pueden transformar diferentes industrias. Me interesa especialmente el potencial de los contratos inteligentes y lo relacionado con  descentralizacion, realmente me gustaria paraticipar en proyectos relacionados con esto.
 
-
-## Contacto
-Gmail: Brianramirez01arias@gmail.com
-
-### Tengo mucho interes por aprender a programar y me gustaria paraticipar en mas proyectos para mejorar mis habilidades🌱 
-   
 
 <!--
 **BraCR10/BraCR10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
