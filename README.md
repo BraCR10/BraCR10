@@ -25,9 +25,10 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/bracr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bracr10" height="40" width="40" /></a>
 <a href="https://instagram.com/bracr_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bracr_10" height="30" width="40" /></a>
+<a href="https://https://twitter.com/BRACR10X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bracr_10" height="30" width="40" /></a>
 <a href="Brianramirez01arias@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="bracr10" height="40" width="40" /></a>
 <p>--> Email: brianramirez01arias@gmail.com </p>
-<p>--> twitter: https://twitter.com/BRACR10X</p>
+<p>--> Twitter: https://twitter.com/BRACR10X</p>
 </p>
 
 
