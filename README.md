@@ -19,7 +19,9 @@
 
 - 🌱 **I’m exploring blogchain-related technologies, so I’m trying out new programming languages like Cairo, Rust or Solidity.**
   
-[![Cairo](https://img.shields.io/badge/Cairo-C10C0C.svg?style=for-the-badge&logo=Cairo-Metro&logoColor=white)]()      [![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)]() [![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white)]()
+<!--[![Cairo](https://img.shields.io/badge/Cairo-C10C0C.svg?style=for-the-badge&logo=Cairo-Metro&logoColor=white)]()-->
+[![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)]()
+<!--[![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white)]()-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
