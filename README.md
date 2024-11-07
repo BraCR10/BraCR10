@@ -50,6 +50,9 @@
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
     </a>
+     <a href="https://nasm.us/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/176px-Netwide_Assembler.svg.png" alt="NASM" width="80" height="40"/>
+     </a>
 </p>
 <h3 align="left">Languages and Tools I'm exploring:</h3>
 
