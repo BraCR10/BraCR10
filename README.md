@@ -7,7 +7,7 @@
 ###
 
 
-<h2 align="center">I used some technologies and programming languages:</h2>
+<h2 align="center">I've worked with some technologies and programming languages:</h2>
 
 ###
 
