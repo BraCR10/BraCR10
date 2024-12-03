@@ -6,7 +6,6 @@
 
 ###
 
-<br clear="both">
 
 <h2 align="center">I used some technologies and programming languages:</h2>
 
@@ -54,6 +53,9 @@
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
   <img width="25" />
   <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" height="30" alt="solidity logo"  />
+   <img width="25" />
+  <img src="https://img.shields.io/badge/Cairo-C10C0C.svg?style=for-the-badge&logo=Cairo-Metro&logoColor=white" height="30" alt="cairo logo"  />
+ 
 </div>
 
 ###
@@ -75,7 +77,7 @@
 
 ###
 
-<h2 align="center">Social medias:</h2>
+<h2 align="center">Social media:</h2>
 
 ###
 
@@ -104,7 +106,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bracr10/bracr10/output/snake.svg" alt="Snake animation" />
+[//]: <> (<img src="https://raw.githubusercontent.com/bracr10/bracr10/output/snake.svg" alt="Snake animation" />)
 
 ###
 
