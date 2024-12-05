@@ -50,12 +50,17 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
-  <img width="25" />
-  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" height="30" alt="solidity logo"  />
-   <img width="25" />
-  <img src="https://img.shields.io/badge/Cairo-C10C0C.svg?style=for-the-badge&logo=Cairo-Metro&logoColor=white" height="30" alt="cairo logo"  />
- 
+<a href="https://www.rust-lang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo" />
+</a>
+<img width="25" />
+<a href="https://soliditylang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" height="30" alt="solidity logo" />
+</a>
+<img width="25" />
+<a href="https://www.cairo-lang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Cairo-C10C0C.svg?style=for-the-badge&logo=Cairo-Metro&logoColor=white" height="30" alt="cairo logo" />
+</a>
 </div>
 
 ###
