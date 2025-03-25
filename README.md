@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">Currently I am very interested in the world of web3 and blockchain, I like to study how these technologies can transform different industries. I am particularly interested in the potential of smart contracts and in decentralisation, I would really like to partcipate in  related projects.<br><br>🌱 I’m exploring blockchain-related technologies, so I’m trying out new programming languages like Rust, Solidity and Cairo .</p>
+<p align="left">Currently I am very interested in the world of web3 and blockchain, I like to study how these technologies can transform different industries. I am particularly interested in the potential of smart contracts and in decentralization, I would really like to partcipate in  related projects.<br><br>🌱 I’m exploring blockchain-related technologies, so I’m trying out new programming languages like Rust, Solidity and Cairo .</p>
 
 ###
 
