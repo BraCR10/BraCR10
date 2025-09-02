@@ -111,7 +111,7 @@ Actively researching, learning, and seeking to contribute to the Bitcoin OSS eco
 Exploring Layer 2 solutions and the Lightning Network's potential to scale Bitcoin for everyday transactions and micropayments.<br><br>
 
 ⭐ <strong>Ambassador at Starmaker (Stellar Ecosystem)</strong><br>
-Contributing to the Stellar blockchain ecosystem  as Assambler <a href="https://www.notion.so/854719d75aa04405a1a2a463b8b7474b" target="_blank">here</a>.<br><br>
+Contributing to the Stellar blockchain ecosystem  as Ambassador <a href="https://www.notion.so/854719d75aa04405a1a2a463b8b7474b" target="_blank">here</a>.<br><br>
 
 🛠️ <strong>OSS Contributor at <a href="https://www.onlydust.com/discover" target="_blank">OnlyDust</a></strong><br>
 Contributing to Eth, Stellar, Starknet and Web3 open-source projects</p>
