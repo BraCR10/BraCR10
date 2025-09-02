@@ -11,7 +11,7 @@
 ###
 <img align="right" height="150" src="https://www.dataquest.io/wp-content/uploads/2023/02/Data-Science.gif"  />
 
-<p align="left">💻 <strong>Full-Stack Web Development and Mobile Experience</strong><br>
+<p align="left">💻 <strong>Gaining Full-Stack Web Development and Mobile Experience</strong><br>
 Getting solid knowledge in web development with experience in both frontend and especially backend technologies. Skilled in mobile development and proficient working with both relational databases (PostgreSQL, SQL Server, ORMs) and MongoDB for diverse application architectures.</p>
 
 ###
