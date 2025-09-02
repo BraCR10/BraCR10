@@ -99,7 +99,6 @@ Getting solid knowledge in web development with experience in both frontend and 
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
 
 <p align="left">₿ <strong>Bitcoin Developer in progress & Researcher</strong><br>
 My primary focus is on the Bitcoin ecosystem and its transformative potential. I'm passionate about contributing to Bitcoin's open-source development and exploring how BTC can revolutionize financial systems.<br><br>
@@ -109,6 +108,8 @@ Actively researching, learning, and seeking to contribute to the Bitcoin OSS eco
 
 ⚡ <strong>Lightning Network Enthusiast</strong><br>
 Exploring Layer 2 solutions and the Lightning Network's potential to scale Bitcoin for everyday transactions and micropayments.<br><br>
+
+<img align="right" height="150" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
 
 ⭐ <strong>Ambassador at Starmaker (Stellar Ecosystem)</strong><br>
 Contributing to the Stellar blockchain ecosystem  as Ambassador <a href="https://www.notion.so/854719d75aa04405a1a2a463b8b7474b" target="_blank">here</a>.<br><br>
