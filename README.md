@@ -51,9 +51,6 @@ Getting solid knowledge in web development with experience in both frontend and 
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </a>
-    <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB" alt="React" />
-  </a>
   
   <!-- Backend & Frameworks -->
   <a href="https://expressjs.com/" target="_blank">
