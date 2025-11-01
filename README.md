@@ -108,11 +108,6 @@ Exploring Layer 2 solutions and the Lightning Network's potential to scale Bitco
 
 <img align="right" height="150" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
  
-⭐ <strong>Ambassador at Starmaker (Stellar Ecosystem)</strong><br>
-Contributing to the Stellar blockchain ecosystem  as Ambassador <a href="https://www.notion.so/854719d75aa04405a1a2a463b8b7474b" target="_blank">here</a>.<br><br>
-
-🛠️ <strong>OSS Contributor at <a href="https://www.onlydust.com/discover" target="_blank">OnlyDust</a></strong><br>
-Contributing to Eth, Stellar, Starknet and Web3 open-source projects</p>
 
 ###
 </br>
