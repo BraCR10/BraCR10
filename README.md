@@ -126,16 +126,6 @@ Exploring Layer 2 solutions and the Lightning Network's potential to scale Bitco
     <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust for Bitcoin" height="35" />
   </a>
 <br><br>
-  <h4>Other Blockchain Contributions</h4>
-  <a href="https://stellar.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white" alt="Stellar" height="35" />
-  </a>
-  <a href="https://soliditylang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" height="35" />
-  </a>
-  <a href="https://www.cairo-lang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Cairo-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" alt="Cairo" height="35" />
-  </a>
 </div>
 
 ###
