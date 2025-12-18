@@ -144,7 +144,6 @@ Exploring Layer 2 solutions and the Lightning Network's potential to scale Bitco
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bracr10&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bracr10&radius=16&theme=redical&area=true&custom_title=Contribution%20Activity" height="250" alt="activity-graph graph"  />
 </div>
 
