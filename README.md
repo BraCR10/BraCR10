@@ -100,7 +100,7 @@ Getting solid knowledge in web development with experience in both frontend and 
 <p align="left">₿ <strong>Bitcoin Developer in progress & Researcher</strong><br>
 My primary focus is on the Bitcoin ecosystem and its transformative potential. I'm passionate about contributing to Bitcoin's open-source development and exploring how BTC can revolutionize financial systems.<br><br>
 
-🚀 <strong>Guarantee at <a href="https://libreriadesatoshi.com/" target="_blank">Librería de Satoshi</a></strong><br>
+🚀 <strong>Grantee at <a href="https://libreriadesatoshi.com/" target="_blank">Librería de Satoshi</a></strong><br>
 Actively researching, learning, and seeking to contribute to the Bitcoin OSS ecosystem. Currently hunting for exciting Bitcoin projects to contribute to and deeply interested in advancing Bitcoin adoption and development.<br><br>
 
 ⚡ <strong>Lightning Network Enthusiast</strong><br>
