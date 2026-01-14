@@ -1,18 +1,13 @@
-<h2 align="center">Welcome to my profile  🚀</h2>
+<h2 align="center">Hi 👋, I'm Brian Ramirez.</h2>
 
 ###
 
-<h4 align="center">Hi 👋, I'm Brian Ramirez.<br>A software development student from Costa Rica.</h4>
-
-###
-
-<h2 align="center">Web2 Technologies & Programming Languages:</h2>
-
-###
 <img align="right" height="150" src="https://www.dataquest.io/wp-content/uploads/2023/02/Data-Science.gif"  />
 
 <p align="left">💻 <strong>Gaining Full-Stack Web Development and Mobile Experience</strong><br>
-Getting solid knowledge in web development with experience in both frontend and especially backend technologies. Skilled in mobile development and proficient working with both relational databases (PostgreSQL, SQL Server, ORMs) and MongoDB for diverse application architectures.</p>
+Getting solid knowledge in web development with experience in both frontend and especially backend technologies. 
+ 
+Proficient working with both relational databases (PostgreSQL, SQL Server, ORMs) and MongoDB.</p>
 
 ###
 
@@ -41,13 +36,14 @@ Getting solid knowledge in web development with experience in both frontend and 
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </a>
   
-  <!-- Frontend -->
+  <!-- Frontend 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   </a>
+  -->
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </a>
@@ -92,7 +88,7 @@ Getting solid knowledge in web development with experience in both frontend and 
 
 ###
 
-<h2 align="center">Web3 & Bitcoin Ecosystem:</h2>
+<h2 align="center">Bitcoin Ecosystem:</h2>
 
 ###
 
@@ -103,8 +99,8 @@ My primary focus is on the Bitcoin ecosystem and its transformative potential. I
 🚀 <strong>Grantee at <a href="https://libreriadesatoshi.com/" target="_blank">Librería de Satoshi</a></strong><br>
 Actively researching, learning, and seeking to contribute to the Bitcoin OSS ecosystem. Currently hunting for exciting Bitcoin projects to contribute to and deeply interested in advancing Bitcoin adoption and development.<br><br>
 
-⚡ <strong>Lightning Network Enthusiast</strong><br>
-Exploring Layer 2 solutions and the Lightning Network's potential to scale Bitcoin for everyday transactions and micropayments.<br><br>
+⚡𓅦 <strong>Lightning Network and Nostr Enthusiast</strong><br>
+Exploring protocols and the Lightning Network's potential to scale Bitcoin for everyday transactions and micropayments.<br><br>
 
 <img align="right" height="150" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
  
@@ -139,9 +135,7 @@ Exploring Layer 2 solutions and the Lightning Network's potential to scale Bitco
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bracr10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bracr10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=false" height="150" alt="languages graph"  />
-</div>
+ 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bracr10&radius=16&theme=redical&area=true&custom_title=Contribution%20Activity" height="250" alt="activity-graph graph"  />
