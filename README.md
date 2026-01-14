@@ -1,7 +1,10 @@
-<h2 align="center">Hi 👋, I'm Brian Ramirez.</h2>
+<h1 align="center">Hi 👋, I'm Brian Ramirez</h1>
 
-###
-
+<p align="center">
+  <strong>Computer Engineering Student</strong> at 
+  <a href="https://www.tec.ac.cr/" target="_blank">ITCR</a>
+</p>
+<br>
 <img align="right" height="150" src="https://www.dataquest.io/wp-content/uploads/2023/02/Data-Science.gif"  />
 
 <p align="left">💻 <strong>Gaining Full-Stack Web Development and Mobile Experience</strong><br>
