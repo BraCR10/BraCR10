@@ -105,7 +105,6 @@ Actively researching, learning, and seeking to contribute to the Bitcoin OSS eco
 ⚡𓅦 <strong>Lightning Network and Nostr Enthusiast</strong><br>
 Exploring protocols and the Lightning Network's potential to scale Bitcoin for everyday transactions and micropayments.<br><br>
 
-<img align="right" height="150" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
  
 
 ###
