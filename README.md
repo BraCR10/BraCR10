@@ -89,24 +89,6 @@ Proficient working with both relational databases (PostgreSQL, SQL Server, ORMs)
   </a>
 </div>
 
-
-<br clear="both">
-
-<h2 align="center">GitHub Stats:</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
- 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bracr10&radius=16&theme=redical&area=true&custom_title=Contribution%20Activity" height="250" alt="activity-graph graph"  />
-</div>
-
-###
-
 <h2 align="center">Connect with me:</h2>
 
 ###
