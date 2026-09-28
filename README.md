@@ -89,44 +89,6 @@ Proficient working with both relational databases (PostgreSQL, SQL Server, ORMs)
   </a>
 </div>
 
-###
-
-<h2 align="center">Bitcoin Ecosystem:</h2>
-
-###
-
-
-<p align="left">₿ <strong>Bitcoin Developer in progress & Researcher</strong><br>
-My primary focus is on the Bitcoin ecosystem and its transformative potential. I'm passionate about contributing to Bitcoin's open-source development and exploring how BTC can revolutionize financial systems.<br><br>
-
-🚀 <strong>Grantee at <a href="https://libreriadesatoshi.com/" target="_blank">Librería de Satoshi</a></strong><br>
-Actively researching, learning, and seeking to contribute to the Bitcoin OSS ecosystem. Currently hunting for exciting Bitcoin projects to contribute to and deeply interested in advancing Bitcoin adoption and development.<br><br>
-
-⚡𓅦 <strong>Lightning Network and Nostr Enthusiast</strong><br>
-Exploring protocols and the Lightning Network's potential to scale Bitcoin for everyday transactions and micropayments.<br><br>
-
- 
-
-###
-</br>
-<div align="center">
-  <h3>₿itcoin Ecosystem</h3>
-  <a href="https://bitcoin.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Bitcoin-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" height="35" />
-  </a>
-  <a href="https://lightning.network/" target="_blank">
-    <img src="https://img.shields.io/badge/Lightning_Network-7B68EE?style=for-the-badge&logo=lightning&logoColor=white" alt="Lightning Network" height="35" />
-  </a>
-<a href="https://github.com/nostr-protocol/nostr" target="_blank">
-  <img src="https://img.shields.io/badge/Nostr-8E44AD?style=for-the-badge&logo=protocol&logoColor=white" height="30" alt="nostr logo" />
-</a>
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust for Bitcoin" height="35" />
-  </a>
-<br><br>
-</div>
-
-###
 
 <br clear="both">
 
